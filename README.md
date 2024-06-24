@@ -65,9 +65,9 @@ I'm **Shyam Raj D**, a code enthusiast and problem solver from India. I'm on a m
 ---
 
 ### 🏆 Achievements:
-- **Won first prize in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
+- **Won second runner-up in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
 - **Finalist in an intercollege hackathon**, receiving a consolation prize.
-- **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 500 teams.
+- **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
 
 ---
 
