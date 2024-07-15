@@ -1,6 +1,6 @@
 ## Hey there! 👋
-
-I'm **Shyam Raj D**, a code enthusiast and problem solver from India. I'm on a mission to master the art of software engineering by diving deep into data structures, algorithms, and full-stack development. When I'm not coding, you can find me participating in hackathons, solving challenges on LeetCode, and contributing to open-source projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=06D001&random=false&width=435&lines=This+is+Shyam!)](https://git.io/typing-svg)
+I'm a code enthusiast and problem solver from India. I'm on a mission to master the art of software engineering by diving deep into data structures, algorithms, and full-stack development. When I'm not coding, you can find me participating in hackathons, solving challenges on LeetCode, and contributing to open-source projects.
 
 ---
 
