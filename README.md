@@ -1,14 +1,15 @@
 ## Hey there! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=06D001&random=false&width=435&lines=This+is+Shyam!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=This+is+Shyam!)](https://git.io/typing-svg)
+
+
 I'm a code enthusiast and problem solver from India. I'm on a mission to master the art of software engineering by diving deep into data structures, algorithms, and full-stack development. When I'm not coding, you can find me participating in hackathons, solving challenges on LeetCode, and contributing to open-source projects.
 
 ---
 
 ### 🌱 About Me:
-- 💻 **Pro Coder and Nerd** with a passion for developing efficient algorithms and building scalable applications.
-- 🎓 **Aspiring Software Engineer** focused on continuous learning and growth.
-- 🏆 **Hackathon Enthusiast** who loves the thrill of competition and the joy of innovation.
-
+- 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=+Pro+Coder+and+Nerd)](https://git.io/typing-svg) with a passion for developing efficient algorithms and building scalable applications.
+- 🎓 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg) focused on continuous learning and growth.
+- 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Hackathon+Enthusiast)](https://git.io/typing-svg) who loves the thrill of competition and the joy of innovation.
 ---
 
 ### 🔭 Currently Working On:
@@ -68,21 +69,6 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 - **Won second runner-up in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
 - **Finalist in an intercollege hackathon**, receiving a consolation prize.
 - **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
-
----
-
-### 📚 Projects:
-#### Cracks and Dents Monitoring App
-![Project Image](https://via.placeholder.com/250)  
-A web app built with a Python backend and deep learning models to monitor cracks and dents.
-
-#### Database Querying Voice Bot
-![Project Image](https://via.placeholder.com/250)  
-A Python web app for database querying with voice commands and visualization using NLP.
-
-#### Job Portal (MERN)
-![Project Image](https://via.placeholder.com/250)  
-Developed a job portal using the MERN stack, enhancing user experience and job search efficiency.
 
 ---
 
