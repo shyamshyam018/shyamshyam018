@@ -1,5 +1,5 @@
 ## Hey there! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1685E1&random=false&width=435&lines=This+is+Shyam+!;Im+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Complex+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=23DDFF&random=false&width=435&lines=This+is+Shyam+!;Im+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
 I'm a code enthusiast and problem solver from India. I'm on a mission to master the art of software engineering by diving deep into data structures, algorithms, and full-stack development. When I'm not coding, you can find me participating in hackathons, solving challenges on LeetCode, and contributing to open-source projects.
 
