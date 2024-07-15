@@ -25,7 +25,7 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ---
 
-### 📫 Reach Me At:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=17&pause=1000&color=1EC5FF&random=false&width=435&lines=%F0%9F%93%AB+Reach+Me+At%3A)](https://git.io/typing-svg)
 - **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
 
 ---
