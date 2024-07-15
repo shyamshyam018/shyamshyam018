@@ -5,18 +5,18 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ---
 
-### 🌱 About Me:
+### 🌱 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="25" height="25" /> :
 - 💻 **Pro Coder and Nerd** with a passion for developing efficient algorithms and building scalable applications.
 - 🎓 **Aspiring Software Engineer** focused on continuous learning and growth.
 - 🏆 **Hackathon Enthusiast** who loves the thrill of competition and the joy of innovation.
   
 ---
 
-### 🔭 Currently Working On:
+### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> :
 - **Data Structures and Algorithms in Java**: Enhancing my problem-solving skills on LeetCode and GeeksforGeeks.
 - **Full-Stack Development**: Building robust and scalable web applications.
 
-### 🌱 Currently Learning:
+### 🌱 Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="25" height="25" /> :
 - **Advanced Front-End Development**: Exploring modern JavaScript frameworks and libraries.
 - **Machine Learning**: Understanding the basics of ML and working on small projects to solidify my knowledge.
 
@@ -31,7 +31,7 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ---
 
-### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
+### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/shyamrajd)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/shyamshyam018)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/shyam027)](https://leetcode.com/yourusername)
@@ -39,7 +39,7 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ---
 
-### 🛠️ Technical Skills:
+### 🛠️ Technical Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Light%20Skin%20Tone.png" alt="Man Detective Light Skin Tone" width="25" height="25" /> :
 
 #### Frontend Development:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
