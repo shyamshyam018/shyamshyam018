@@ -77,6 +77,4 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 
 #### GeeksforGeeks Profile
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<shyamrajwyx0
->)](https://auth.geeksforgeeks.org/user/<shyamrajwyx0
->/practice/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0)](https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/)
