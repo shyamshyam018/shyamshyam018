@@ -25,7 +25,7 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=17&pause=1000&color=1EC5FF&random=false&width=435&lines=%F0%9F%93%AB+Reach+Me+At%3A)](https://git.io/typing-svg)
+### 📫 Reach Me At:
 - **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
 
 ---
@@ -73,7 +73,7 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ### 📈 LeetCode & GeeksforGeeks Progress:
 #### LeetCode Profile
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/username)](https://leetcode.com/yourusername)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/shyam027)](https://leetcode.com/shyam027)
 
 #### GeeksforGeeks Profile
-[![GeeksforGeeks Profile](https://geeksforgeeks-profile.herokuapp.com/username)](https://auth.geeksforgeeks.org/user/yourusername)
+[![GeeksforGeeks Profile](https://geeksforgeeks-profile.herokuapp.com/username)](https://auth.geeksforgeeks.org/user/shyam027)
