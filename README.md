@@ -7,9 +7,12 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 ---
 
 ### 🌱 About Me:
-- 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=+Pro+Coder+and+Nerd)](https://git.io/typing-svg) with a passion for developing efficient algorithms and building scalable applications.
-- 🎓 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg) focused on continuous learning and growth.
-- 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Hackathon+Enthusiast)](https://git.io/typing-svg) who loves the thrill of competition and the joy of innovation.
+- 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=+Pro+Coder+and+Nerd)](https://git.io/typing-svg)
+-  with a passion for developing efficient algorithms and building scalable applications.
+- 🎓 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Aspiring+Software+Engineer)]
+- (https://git.io/typing-svg) focused on continuous learning and growth.
+- 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=1EC5FF&random=false&width=435&lines=Hackathon+Enthusiast)](https://git.io/typing-svg)
+- who loves the thrill of competition and the joy of innovation.
 ---
 
 ### 🔭 Currently Working On:
