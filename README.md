@@ -20,18 +20,18 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 - **Advanced Front-End Development**: Exploring modern JavaScript frameworks and libraries.
 - **Machine Learning**: Understanding the basics of ML and working on small projects to solidify my knowledge.
 
-### 👯 Looking to Collaborate On:
+### 👯 Looking to Collaborate On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
 - **Open Source Contributions**: Particularly interested in Java and Python projects.
 - **Exciting Web Development Projects**: Open to collaborating on innovative and impactful web applications.
 
 ---
 
-### 📫 Reach Me At:
+### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> :
 - **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/shyamrajd)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/shyamshyam018)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/shyam027)](https://leetcode.com/yourusername)
