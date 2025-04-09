@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" height="450" alt="Coding GIF"/>
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" height="350" alt="Coding GIF"/>
 
 
 
