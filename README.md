@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" height="350" alt="Coding GIF"/>
+<img align="right" src="https://media1.tenor.com/m/Cp4uvwFUrkEAAAAC/nanami-kento-jujutsu-kaisen.gif" width="250" height="350" alt="Coding GIF"/>
 
 
 
