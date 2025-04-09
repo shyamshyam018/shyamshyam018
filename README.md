@@ -22,13 +22,15 @@
 </table>
 
 ---
-> <p align="center">Code. Create. Collaborate. Repeat 💙</p> <
-> <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div> <
+> <p align="center">Code. Create. Collaborate. Repeat 💙</p> 
+> <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div> 
 ---
 
-### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> :
-- **Data Structures and Algorithms in Java**: Enhancing my problem-solving skills on LeetCode and GeeksforGeeks.
-- **Full-Stack Development**: Building robust and scalable web applications.
+### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" />
+
+- Mastering **Data Structures & Algorithms** in Java with hands-on problem solving  in various platforms 
+- Building full-stack apps using **React**, **Node.js**, **Express**, and **Django**  
+- Specializing in **responsive front-end development** with modern JS frameworks like **NextJS** , **TailwindCSS** , **BootStrap5**
 
 ---
 
@@ -56,8 +58,8 @@
 ---
 
 ### 🌱 Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="25" height="25" /> :
-- **Advanced Front-End Development**: Exploring modern JavaScript frameworks and libraries.
-- **Machine Learning**: Understanding the basics of ML and working on small projects to solidify my knowledge.\
+- Exploring **front-end frameworks**, **core CS subjects**, and **responsive design**  
+- Gaining **financial literacy**, freelancing experience & money-making skills  
 
 ---
 
@@ -72,8 +74,8 @@
 ---
 
 ### 👯 Looking to Collaborate On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
-- **Open Source Contributions**: Particularly interested in Java and Python projects.
-- **Exciting Web Development Projects**: Open to collaborating on innovative and impactful web applications.
+- Delivering responsive projects and **platform-as-a-service** solutions for clients  
+- Teaming up on exciting stacks: **React**, **Node**, **Express**, **Django**
 
 ---
 
@@ -86,8 +88,9 @@
 ---
 
 ### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> :
+- **LinkTree**: [MyLinkTree](https://linktr.ee/shyamraj018)
 - **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
-- **Instagram**:[Shyam_NoLimit](https://www.instagram.com/shyam_nolimit/)
+- **Instagram**:[shyam_nolimit](https://www.instagram.com/shyam_nolimit/)
   
 ---
 
