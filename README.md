@@ -106,15 +106,15 @@
 <table>
   <tr>
     <td width="40px">
-      <img src="https://img.icons8.com/color/48/linktree.png" width="28" height="28" alt="LinkTree Icon"/>
+      <img src="https://img.icons8.com/color/48/linktree.png" width="28" height="20" alt="LinkTree Icon"/>
     </td>
     <td>
       <a href="https://linktr.ee/shyamraj018"><strong>My LinkTree</strong></a>
     </td>
   </tr>
   <tr>
-    <td >
-      <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" height="28" alt="Gmail Icon"/>
+    <td width="40px">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" height="20" alt="Gmail Icon"/>
     </td>
     <td>
       <a href="mailto:shyamrajsr2004@gmail.com">shyamrajsr2004@gmail.com</a>
@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td width="40px">
-      <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28" height="28" alt="Instagram Icon"/>
+      <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28" height="20" alt="Instagram Icon"/>
     </td>
     <td>
       <a href="https://www.instagram.com/shyam_nolimit/">@shyam_nolimit</a>
