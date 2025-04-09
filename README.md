@@ -2,13 +2,12 @@
 
 <div>
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
-  <img align="right" src="https://github.com/user-attachments/assets/413870b0-b51f-42f7-b93c-712a66300a05" width="200"/>
+<img align="right" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952j689bn9wg932pyv3kpalfhn55zxh1s0033hbctb8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
 
 </div>
+
 ### ⚡ About Me – Just a Techie on a Mission 
 
   - 💻 Full-stack dev with love for **React** & **Django**  
