@@ -82,16 +82,16 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ## 🔥 GitHub Stats & Achievements
 
+
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight" height="180"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamshyam018&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+### 💻 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2" />
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2)
+
 
 
 ### 👁️ Visitor Count
