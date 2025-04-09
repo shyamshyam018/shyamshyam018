@@ -1,10 +1,14 @@
  ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="25" height="25" />
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/413870b0-b51f-42f7-b93c-712a66300a05" width="200"/>
-</div>
+<div>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
+
+  <img align="right" src="https://github.com/user-attachments/assets/413870b0-b51f-42f7-b93c-712a66300a05" width="200"/>
+
+</div>
 ### ⚡ About Me – Just a Techie on a Mission 
 
   - 💻 Full-stack dev with love for **React** & **Django**  
