@@ -87,12 +87,12 @@
       <img src="https://media.licdn.com/dms/image/v2/D5622AQEAKk2wcGXo3g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1688629234342?e=1747267200&v=beta&t=xN-gfAx7Rfa6T-fLwDmH9IypQSMLgNdyBdUK5l1b-60" width="300px" alt="Hackfest Photo"/>
     </td>
     <td>
-      <ul>
+      <ol>
         <li><strong>🏅 2nd Runner-Up in Hackfest '23</strong> – Won ₹50,000 for a <br/>crack/dent monitoring web app and a voice-powered database <br/>query Python tool.  
         <br/>🔗 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091028031393206272/">See on LinkedIn</a></li><br/>
         <li><strong>🏁 Finalist</strong> in an Intercollege Hackathon — Earned a consolation prize</li><br/>
         <li><strong>🏆 Top 20 Teams</strong> in Smart India Hackathon (SIH) 2022 <br/>(among 300+ teams)</li>
-      </ul>
+      </0l>
     </td>
   </tr>
 </table>
@@ -103,15 +103,16 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/30/linktree.png" alt="LinkTree Icon"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0db95910-df35-4c62-b8b8-f4f1b6e2d6bd" alt="LinkTree Icon"/></td>
     <td><a href="https://linktr.ee/shyamraj018"><strong>My LinkTree</strong></a></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/30/gmail.png" alt="Email Icon"/></td>
+   
+    <td><img src="https://github.com/user-attachments/assets/b74245ce-c0bf-4e86-a950-599fcd7bcbcb" alt="Email Icon"/></td>
     <td><a href="mailto:shyamrajsr2004@gmail.com">shyamrajsr2004@gmail.com</a></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/30/instagram-new.png" alt="Instagram Icon"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a4210b5a-4408-43a8-bdc5-6308b735d700" alt="Instagram Icon"/></td>
     <td><a href="https://www.instagram.com/shyam_nolimit/">@shyam_nolimit</a></td>
   </tr>
 </table>
