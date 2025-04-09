@@ -1,5 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 
+### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&random=false&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 ### ⚡ About Me – Just a Techie on a Mission
 
