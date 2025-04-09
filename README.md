@@ -84,7 +84,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.licdn.com/dms/image/D5622AQEZt6YrMnSGLw/feedshare-shrink_2048_1536/0/1691666343708?e=1717027200&v=beta&t=ZQ61gAWQ3OVyUVEqGy95iAqvpxU53OhNDUpz8q2GonE" width="300px" alt="Hackfest Photo"/>
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQEAKk2wcGXo3g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1688629234342?e=1747267200&v=beta&t=xN-gfAx7Rfa6T-fLwDmH9IypQSMLgNdyBdUK5l1b-60" width="300px" alt="Hackfest Photo"/>
     </td>
     <td>
       <ul>
