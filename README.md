@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimangahive.tumblr.com%2Fpost%2F738394727592935424&psig=AOvVaw0c9dMbmIfcfc3n9fl6khj_&ust=1744306017612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi8qbe8y4wDFQAAAAAdAAAAABAn" width="200"/>
+<img align="right" src="https://64.media.tumblr.com/8a33cc1e026750c8024f7e0220f61943/708f4d772ed46c1c-08/s540x810/6e33476aef4474844148b8d039bca68e422e04d4.gif" width="200"/>
 
 </div>
 
