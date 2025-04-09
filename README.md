@@ -81,13 +81,27 @@
 - **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
 
 ---
-### 📈 Coding Progress
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shyam027?theme=unicorn&font=patrick_hand" alt="LeetCode Stats" />
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0" alt="GeeksforGeeks Stats" />
-</p>
+### 📈 My Coding Progress
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/shyam027?ext=heatmap&theme=dark" />
+    </td>
+    <td align="center">
+      <b>GeeksforGeeks</b><br><br>
+      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
