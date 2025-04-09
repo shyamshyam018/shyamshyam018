@@ -84,7 +84,14 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamshyam018&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
 
 ### 💻 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight)
