@@ -90,8 +90,9 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2&rank=SECRET,SSS,SS,S,AAA,AA" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2" />
 </div>
+
 
 ### 👁️ Visitor Count
 <div align="center">
