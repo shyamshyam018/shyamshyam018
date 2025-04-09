@@ -104,7 +104,6 @@
 ### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Point Down" width="25" height="25" />
 
 | 📎 | [linktree](https://linktr.ee/shyamraj018) |
-|----|----------------------------------------------|
 | 📧 | [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com) |
 | 📸 | [@shyam_nolimit](https://www.instagram.com/shyam_nolimit/) |
 
