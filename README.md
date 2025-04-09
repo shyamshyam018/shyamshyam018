@@ -22,8 +22,10 @@
 </table>
 
 ---
+
 <p align="center">Code. Create. Collaborate. Repeat 💙</p> 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div> 
+
 ---
 
 ### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" />
@@ -103,17 +105,28 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0db95910-df35-4c62-b8b8-f4f1b6e2d6bd" alt="LinkTree Icon"/></td>
-    <td><a href="https://linktr.ee/shyamraj018"><strong>My LinkTree</strong></a></td>
+    <td width="40px">
+      <img src="https://img.icons8.com/color/48/linktree.png" width="28" height="28" alt="LinkTree Icon"/>
+    </td>
+    <td>
+      <a href="https://linktr.ee/shyamraj018"><strong>My LinkTree</strong></a>
+    </td>
   </tr>
   <tr>
-   
-    <td><img src="https://github.com/user-attachments/assets/b74245ce-c0bf-4e86-a950-599fcd7bcbcb" alt="Email Icon"/></td>
-    <td><a href="mailto:shyamrajsr2004@gmail.com">shyamrajsr2004@gmail.com</a></td>
+    <td width="40px">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" height="28" alt="Gmail Icon"/>
+    </td>
+    <td>
+      <a href="mailto:shyamrajsr2004@gmail.com">shyamrajsr2004@gmail.com</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a4210b5a-4408-43a8-bdc5-6308b735d700" alt="Instagram Icon"/></td>
-    <td><a href="https://www.instagram.com/shyam_nolimit/">@shyam_nolimit</a></td>
+    <td width="40px">
+      <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28" height="28" alt="Instagram Icon"/>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/shyam_nolimit/">@shyam_nolimit</a>
+    </td>
   </tr>
 </table>
 
