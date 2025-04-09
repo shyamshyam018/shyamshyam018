@@ -4,11 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 ### ⚡ About Me – Just a Techie on a Mission 
 
-<details>
-  <summary>✨ Wanna know more about me? Click me 😏</summary>
-
-  <br/>
-
   - 💻 Full-stack dev with love for **React** & **Django**  
   - 🧠 Into DSA, system design & clean code  
   - 🧩 LeetCode grinder & open-source contributor  
@@ -16,9 +11,7 @@
   - 🌐 Built stuff end-to-end — frontend, backend, deploy  
   - 🚀 Always learning, building, and leveling up  
 
-</details>
 
----
 
 ### 🏆 GitHub Trophies
 <table align = "center" width="2000">
@@ -28,7 +21,6 @@
 </tr>
 </table>
 
----
 
 <p align="center">Code. Create. Collaborate. Repeat 💙</p> 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div> 
