@@ -2,6 +2,7 @@
 
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&random=false&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
+
 ### ⚡ About Me – Just a Techie on a Mission
 
 - 💻 Full-stack dev with love for **React** & **Django**
@@ -14,14 +15,12 @@
 
 > Code. Create. Collaborate. Repeat 💙
 
+### 👁️ Visitor Count
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
 
----
 
-### 🌱 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="25" height="25" /> :
-- 💻 **Pro Coder and Nerd** with a passion for developing efficient algorithms and building scalable applications.
-- 🎓 **Aspiring Software Engineer** focused on continuous learning and growth.
-- 🏆 **Hackathon Enthusiast** who loves the thrill of competition and the joy of innovation.
-  
 ---
 
 ### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> :
@@ -82,18 +81,30 @@
 - **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
 
 ---
+### 📈 Coding Progress
 
-### 📈 LeetCode & GeeksforGeeks Progress:
-#### LeetCode Profile
-![](https://leetcard.jacoblin.cool/shyam027?ext=heatmap)
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/shyam027?ext=heatmap&theme=light" />
+    </td>
+    <td align="center">
+      <b>GeeksforGeeks</b><br><br>
+      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=light" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### GeeksforGeeks Profile
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0)](https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/)
+</div>
+
 
 
 ## 🔥 GitHub Stats & Achievements
-
 
 ### 📊 GitHub Stats
 
@@ -117,8 +128,4 @@
 
 
 
-### 👁️ Visitor Count
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</div>
 
