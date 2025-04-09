@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" src="https://media1.tenor.com/m/7RM1ibGiW7IAAAAd/nanami-jjk.gif" width="300" height="350" alt="Coding GIF"/>
+<img align="right" src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="250" height="300" alt="Coding GIF"/>
 
 
 
