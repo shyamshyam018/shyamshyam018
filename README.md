@@ -103,20 +103,17 @@
 
 </div>
 
-
-
-## 🔥 GitHub Stats & Achievements
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF&bg_color=00000000" height="180px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=ADBAC7&bg_color=00000000" height="180px"/>
 </p>
 
-### 💻 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight)
+---
 
 ### 🏆 GitHub Trophies
 <table width="2000">
