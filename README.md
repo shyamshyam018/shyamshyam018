@@ -108,10 +108,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF&bg_color=00000000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117" height="180px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=ADBAC7&bg_color=00000000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="180px"/>
 </p>
+
 
 ---
 
