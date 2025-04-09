@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
-<img align="right" src="https://64.media.tumblr.com/8a33cc1e026750c8024f7e0220f61943/708f4d772ed46c1c-08/s540x810/6e33476aef4474844148b8d039bca68e422e04d4.gifv" width="200"/>
+<img align="right" src="![image](https://github.com/user-attachments/assets/bf541943-4504-412e-a4f3-1fbf6080ef9a)
+" width="200"/>
 
 </div>
 
