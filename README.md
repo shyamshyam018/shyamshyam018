@@ -1,8 +1,5 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="25" height="25" />
 
-<table>
-  <tr>
-    <td>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
@@ -15,15 +12,7 @@
 - 🌐 Built stuff end-to-end — frontend, backend, deploy  
 - 🚀 Always learning, building, and leveling up  
 
-</td>
-<td align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="dev gif"/>
-
-</td>
-</tr>
-</table>
-
 
 ### 🏆 GitHub Trophies
 <table width="2000">
