@@ -83,24 +83,11 @@
 ---
 ### 📈 Coding Progress
 
-<div align="center">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shyam027?theme=unicorn&font=patrick_hand" alt="LeetCode Stats" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0" alt="GeeksforGeeks Stats" />
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <b>LeetCode</b><br><br>
-      <img src="https://leetcard.jacoblin.cool/shyam027?ext=heatmap&theme=light" />
-    </td>
-    <td align="center">
-      <b>GeeksforGeeks</b><br><br>
-      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=light" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 
