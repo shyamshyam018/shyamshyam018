@@ -2,7 +2,8 @@
 
 <div>
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="180" alt="Calm Coding GIF"/>
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="150" height="450" alt="Coding GIF"/>
+
 
 
 
