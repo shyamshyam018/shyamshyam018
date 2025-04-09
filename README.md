@@ -78,3 +78,23 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 
 #### GeeksforGeeks Profile
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0)](https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/)
+
+
+## 🔥 GitHub Stats & Achievements
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight" height="180"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2&rank=SECRET,SSS,SS,S,AAA,AA" />
+</div>
+
+### 👁️ Visitor Count
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
+
