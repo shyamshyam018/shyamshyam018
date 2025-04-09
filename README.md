@@ -97,7 +97,13 @@ I'm a code enthusiast and problem solver from India. I'm on a mission to master 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shyamshyam018&theme=gruvbox&column=7&row=2)
+<table width="2000">
+<tr>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+</tr>
+</table>
+
 
 
 
