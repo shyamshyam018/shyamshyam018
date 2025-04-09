@@ -21,8 +21,10 @@
 </tr>
 </table>
 
-> Code. Create. Collaborate. Repeat 💙
-> <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div>
+---
+
+<p align="center">Code. Create. Collaborate. Repeat 💙</p>
+  <div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div>
 
 ---
 
