@@ -113,7 +113,7 @@
     </td>
   </tr>
   <tr>
-    <td width="40px">
+    <td >
       <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" height="28" alt="Gmail Icon"/>
     </td>
     <td>
