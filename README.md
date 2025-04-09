@@ -20,11 +20,12 @@
 
       </td>
       <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="dev gif"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3HJdWFUYQHQ9svNAyzyXT0&ust=1744301950608000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCvs6Gty4wDFQAAAAAdAAAAABAE" width="270px" alt="dev gif"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ### 🏆 GitHub Trophies
