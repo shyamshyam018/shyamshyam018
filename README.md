@@ -3,7 +3,9 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&random=false&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
-### ⚡ About Me – Just a Techie on a Mission
+### ⚡ About Me – Just a Techie on a Mission ### 👁️ Visitor Count 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div>
+
 
 - 💻 Full-stack dev with love for **React** & **Django**
 - 🧠 Into DSA, system design & clean code
@@ -12,14 +14,15 @@
 - 🌐 Built stuff end-to-end — frontend, backend, deploy
 - 🚀 Always learning, building, and leveling up
 
+### 🏆 GitHub Trophies
+<table width="2000">
+<tr>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<!-- <td>![](https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+</tr>
+</table>
 
 > Code. Create. Collaborate. Repeat 💙
-
-### 👁️ Visitor Count
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</div>
-
 
 ---
 
@@ -27,9 +30,46 @@
 - **Data Structures and Algorithms in Java**: Enhancing my problem-solving skills on LeetCode and GeeksforGeeks.
 - **Full-Stack Development**: Building robust and scalable web applications.
 
+---
+
+### 📈 My Coding Progress
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/shyam027?ext=heatmap&theme=dark" />
+    </td>
+    <td align="center">
+      <b>GeeksforGeeks</b><br><br>
+      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 🌱 Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="25" height="25" /> :
 - **Advanced Front-End Development**: Exploring modern JavaScript frameworks and libraries.
-- **Machine Learning**: Understanding the basics of ML and working on small projects to solidify my knowledge.
+- **Machine Learning**: Understanding the basics of ML and working on small projects to solidify my knowledge.\
+
+---
+
+### 📊 Github & Development Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117" height="180px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="180px"/>
+</p>
+
+---
 
 ### 👯 Looking to Collaborate On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
 - **Open Source Contributions**: Particularly interested in Java and Python projects.
@@ -37,14 +77,23 @@
 
 ---
 
-### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> :
-- **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
+### 🏆 Achievements:
+
+- **Won second runner-up in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
+- **Finalist in an intercollege hackathon**, receiving a consolation prize.
+- **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
 
 ---
 
+### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> :
+- **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
+- **Instagram**:[Shyam_NoLimit](https://www.instagram.com/shyam_nolimit/)
+  
+---
+
 ### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/shyamrajd)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/shyamshyam018)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/shyamrajd)](https://www.linkedin.com/in/shyamrajd)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shyamshyam018)](https://github.com/shyamshyam018)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/shyam027)](https://leetcode.com/yourusername)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername)](https://auth.geeksforgeeks.org/user/shyamrajwyx0)
 
@@ -75,54 +124,9 @@
 
 ---
 
-### 🏆 Achievements:
-- **Won second runner-up in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
-- **Finalist in an intercollege hackathon**, receiving a consolation prize.
-- **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
-
----
-
-### 📈 My Coding Progress
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <b>LeetCode</b><br><br>
-      <img src="https://leetcard.jacoblin.cool/shyam027?ext=heatmap&theme=dark" />
-    </td>
-    <td align="center">
-      <b>GeeksforGeeks</b><br><br>
-      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117" height="180px"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="180px"/>
-</p>
 
 
----
 
-### 🏆 GitHub Trophies
-<table width="2000">
-<tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
-</tr>
-</table>
 
 
 
