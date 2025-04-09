@@ -3,8 +3,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
-        
+      <td width="60%" align="left">
         <br>
 
         [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&random=false&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
@@ -19,14 +18,12 @@
         - 🚀 Always learning, building, and leveling up  
 
       </td>
-      <td>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3HJdWFUYQHQ9svNAyzyXT0&ust=1744301950608000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCvs6Gty4wDFQAAAAAdAAAAABAE" width="270px" alt="dev gif"/>
+      <td align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="dev gif"/>
       </td>
     </tr>
   </table>
 </div>
-
-
 
 ### 🏆 GitHub Trophies
 <table width="2000">
