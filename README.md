@@ -3,7 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
 
-### ⚡ About Me – Just a Techie on a Mission  
+<table>
+<tr>
+### ⚡ About Me – Just a Techie on a Mission <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="dev gif"/> </td>
+</tr>
+</table>
 
 - 💻 Full-stack dev with love for **React** & **Django**  
 - 🧠 Into DSA, system design & clean code  
@@ -12,7 +16,7 @@
 - 🌐 Built stuff end-to-end — frontend, backend, deploy  
 - 🚀 Always learning, building, and leveling up  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="dev gif"/>
+
 
 ### 🏆 GitHub Trophies
 <table width="2000">
