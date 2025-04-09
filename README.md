@@ -14,7 +14,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-<table width="2000">
+<table align = "center" width="2000">
 <tr>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
 <!-- <td>![](https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
@@ -79,19 +79,43 @@
 
 ---
 
-### 🏆 Achievements:
+### 🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
-- **Won second runner-up in Hackfest '23**, receiving ₹50,000, for a web app monitoring cracks and dents and developing a Python web app for database querying and visualization using voice.
-- **Finalist in an intercollege hackathon**, receiving a consolation prize.
-- **Selected among the top 20 teams** in Smart India Hackathon (SIH) 2022, competing among 300 teams.
+<table>
+  <tr>
+    <td>
+      <img src="https://media.licdn.com/dms/image/D5622AQEZt6YrMnSGLw/feedshare-shrink_2048_1536/0/1691666343708?e=1717027200&v=beta&t=ZQ61gAWQ3OVyUVEqGy95iAqvpxU53OhNDUpz8q2GonE" width="300px" alt="Hackfest Photo"/>
+    </td>
+    <td>
+      <ul>
+        <li><strong>🏅 2nd Runner-Up in Hackfest '23</strong> – Won ₹50,000 for a <br/>crack/dent monitoring web app and a voice-powered database <br/>query Python tool.  
+        <br/>🔗 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091028031393206272/">See on LinkedIn</a></li><br/>
+        <li><strong>🏁 Finalist</strong> in an Intercollege Hackathon — Earned a consolation prize</li><br/>
+        <li><strong>🏆 Top 20 Teams</strong> in Smart India Hackathon (SIH) 2022 <br/>(among 300+ teams)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> :
-- **LinkTree**: [MyLinkTree](https://linktr.ee/shyamraj018)
-- **Email**: [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com)
-- **Instagram**:[shyam_nolimit](https://www.instagram.com/shyam_nolimit/)
-  
+### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Point Down" width="25" height="25" />
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/linktree.png" alt="LinkTree Icon"/></td>
+    <td><a href="https://linktr.ee/shyamraj018"><strong>My LinkTree</strong></a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/gmail.png" alt="Email Icon"/></td>
+    <td><a href="mailto:shyamrajsr2004@gmail.com">shyamrajsr2004@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/30/instagram-new.png" alt="Instagram Icon"/></td>
+    <td><a href="https://www.instagram.com/shyam_nolimit/">@shyam_nolimit</a></td>
+  </tr>
+</table>
+
 ---
 
 ### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
