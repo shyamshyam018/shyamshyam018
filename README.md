@@ -57,7 +57,6 @@
        <img src="https://leetcard.jacoblin.cool/Shyam027?ext=heatmap&theme=dark" alt="Shyam's LeetCode Card" />
      </a>
     </td>
-
     <td align="center">
       <b>GeeksforGeeks</b><br><br>
       <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
