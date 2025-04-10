@@ -124,7 +124,7 @@
 ### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/shyamrajd)](https://www.linkedin.com/in/shyamrajd)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shyamshyam018)](https://github.com/shyamshyam018)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/shyam027)](https://leetcode.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/Shyam027)](https://leetcode.com/Shyam027)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername)](https://auth.geeksforgeeks.org/user/shyamrajwyx0)
 
 ---
