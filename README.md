@@ -54,7 +54,7 @@
     <td align="center">
     <b>LeetCode</b><br><br>
      <a href="https://leetcode.com/u/Shyam027/" target="_blank" rel="noopener noreferrer">
-       <img src="https://leetcard.jacoblin.cool/u/Shyam027?ext=heatmap&theme=dark" alt="Shyam's LeetCode Card" />
+       <img src="https://leetcard.jacoblin.cool/Shyam027?ext=heatmap&theme=dark" alt="Shyam's LeetCode Card" />
      </a>
     </td>
 
