@@ -12,7 +12,7 @@
 
 </div>
 
-### ⚡ About Me – Just a Techie on a Mission 🌐 [Check out my portfolio!](https://shyamrajportfolio.netlify.app/)  🚀
+### ⚡ About Me – Just a Techie on a Mission 🌐 [MyPortfolio!](https://shyamrajportfolio.netlify.app/)  🚀
 
   - 💻 Full-stack dev with love for **React** & **Django**  
   - 🧠 Into DSA, system design & clean code  
