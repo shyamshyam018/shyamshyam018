@@ -12,9 +12,9 @@
 
 </div>
 
-### ⚡ About Me – Just a Techie on a Mission 🌐 [MyPortfolio!](https://shyamrajportfolio.netlify.app/)  🚀
-
-  - 💻 Full-stack dev with love for **React** & **Django**  
+### ⚡ About Me – Just a Techie on a Mission 
+  
+  - 💻 Full-stack dev with love for **React** & **Django** - [Portfolio!](https://shyamrajportfolio.netlify.app/)🚀
   - 🧠 Into DSA, system design & clean code  
   - 🧩 LeetCode grinder & open-source contributor  
   - 🏆 Led winning teams at tech fests & hackathons  
