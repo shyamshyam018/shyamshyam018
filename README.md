@@ -1,174 +1,73 @@
- ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="25" height="25" />
-
-<div>
-
-<img align="right" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="250" alt="Coding GIF"/>
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
-
-
-</div>
-
-### ⚡ About Me – Just a Techie on a Mission 
-  
-  - 💻 Full-stack dev with love for **React** & **Django** - [Portfolio!](https://shyamrajportfolio.netlify.app/)🚀
-  - 🧠 Into DSA, system design & clean code  
-  - 🧩 LeetCode grinder & open-source contributor  
-  - 🏆 Led winning teams at tech fests & hackathons  
-  - 🌐 Built stuff end-to-end — frontend, backend, deploy  
-  - 🚀 Always learning, building, and leveling up  
-
-
-
-### 🏆 GitHub Trophies
-<table align = "center" width="2000">
-<tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
-</tr>
-</table>
-
-
-<p align="center">Code. Create. Collaborate. Repeat 💙</p> 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" /></div> 
-
----
-
-### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" />
-
-- Mastering **Data Structures & Algorithms** in Java with hands-on problem solving  in various platforms 
-- Building full-stack apps using **React**, **Node.js**, **Express**, and **Django**  
-- Specializing in **responsive front-end development** with modern JS frameworks like **NextJS** , **TailwindCSS** , **BootStrap5**
-
----
-
-### 📈 My Coding Progress
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-    <b>LeetCode</b><br><br>
-     <a href="https://leetcode.com/u/Shyam027/" target="_blank" rel="noopener noreferrer">
-       <img src="https://leetcard.jacoblin.cool/Shyam027?ext=heatmap&theme=dark" alt="Shyam's LeetCode Card" />
-     </a>
-    </td>
-    <td align="center">
-      <b>GeeksforGeeks</b><br><br>
-      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+# 𝐒𝐡𝐲𝐚𝐦 𝐑𝐚𝐣
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=𝐂𝐃𝐈+𝐒𝐮𝐩𝐩𝐨𝐫𝐭+𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫;𝐌𝐄𝐑𝐍+𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐃𝐚𝐭𝐚+%26+𝐃𝐞𝐯𝐎𝐩𝐬+𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭)](https://git.io/typing-svg)
+
+*“𝐒𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲, 𝐜𝐚𝐫𝐫𝐢𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐞𝐱𝐭𝐫𝐞𝐦𝐞, 𝐛𝐞𝐜𝐨𝐦𝐞𝐬 𝐞𝐥𝐞𝐠𝐚𝐧𝐜𝐞.”*
 
 </div>
 
 ---
 
-### 🌱 Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="25" height="25" /> :
-- Exploring **front-end frameworks**, **core CS subjects**, and **responsive design**  
-- Gaining **financial literacy**, freelancing experience & money-making skills  
+<fieldset>
+  <legend align="center"><h3> 𝐀𝐛𝐨𝐮𝐭 𝐌𝐲 𝐅𝐨𝐜𝐮𝐬 </h3></legend>
+  <p align="center">
+    𝐈 𝐚𝐦 a 𝐒𝐃𝐄 focused on building 𝐞𝐥𝐞𝐠𝐚𝐧𝐭, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐬𝐲𝐬𝐭𝐞𝐦𝐬. [cite: 1, 15] <br>
+    𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐢𝐧𝐭𝐞𝐫𝐧𝐢𝐧𝐠 𝐚𝐭 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 in 𝐂𝐥𝐨𝐮𝐝 𝐃𝐚𝐭𝐚 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧. [cite: 51, 52, 53] <br>
+    𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 𝐥𝐢𝐞 𝐢𝐧 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐃𝐞𝐯𝐎𝐩𝐬 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬, 𝐀𝐈, and 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲. [cite: 15, 60]
+  </p>
+</fieldset>
 
----
+<br>
 
-### 📊 Github & Development Stats
+<fieldset>
+  <legend align="center"><h3> 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐀𝐫𝐬𝐞𝐧𝐚𝐥 </h3></legend>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java" />
+    <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql" />
+    <br>
+    <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs" />
+    <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot" />
+    <img src="https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django" />
+    <br>
+    <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker" />
+    <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git" />
+    <img src="https://img.shields.io/badge/Informatica-333333?style=for-the-badge&logo=informatica" />
+    <br><br>
+  </div>
+</fieldset>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117" height="180px"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="180px"/>
-</p>
+<br>
 
----
+<fieldset>
+  <legend align="center"><h3> 𝐂𝐨𝐝𝐢𝐧𝐠 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 </h3></legend>
+  <div align="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&theme=transparent&title_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" width="43%" />
+    <br><br>
+    <img src="https://leetcard.jacoblin.cool/Shyam027?theme=dark&font=Garamond&font_size=18" width="80%" />
+  </div>
+</fieldset>
 
-### 👯 Looking to Collaborate On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
-- Delivering responsive projects and **platform-as-a-service** solutions for clients  
-- Teaming up on exciting stacks: **React**, **Node**, **Express**, **Django**
+<br>
 
----
+<fieldset>
+  <legend align="center"><h3> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 </h3></legend>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shyamrajd">𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧</a> • 
+    <a href="https://shyamrajportfolio.netlify.app/">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</a> • 
+    <a href="mailto:shyamrajsr2004@gmail.com">𝐄𝐦𝐚𝐢𝐥</a>
+  </p>
+</fieldset>
 
-### 🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
-
-<table>
-  <tr>
-    <td>
-      <img src="https://media.licdn.com/dms/image/v2/D5622AQEAKk2wcGXo3g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1688629234342?e=1747267200&v=beta&t=xN-gfAx7Rfa6T-fLwDmH9IypQSMLgNdyBdUK5l1b-60" width="300px" alt="Hackfest Photo"/>
-    </td>
-    <td>
-      <ol>
-        <li><strong>🏅 2nd Runner-Up in Hackfest '23</strong> – Won ₹50,000 for a <br/>crack/dent monitoring web app and a voice-powered database <br/>query Python tool.  
-        <br/>🔗 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091028031393206272/">See on LinkedIn</a></li><br/>
-        <li><strong>🏁 Finalist</strong> in an Intercollege Hackathon — Earned a consolation prize</li><br/>
-        <li><strong>🏆 Top 20 Teams</strong> in Smart India Hackathon (SIH) 2022 <br/>(among 300+ teams)</li>
-      </0l>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Point Down" width="25" height="25" />
-
-| 📎 | [linktree](https://linktr.ee/shyamraj018) |
-| 📧 | [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com) |
-| 📸 | [@shyam_nolimit](https://www.instagram.com/shyam_nolimit/) |
-
-
----
-
-### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/shyamrajd)](https://www.linkedin.com/in/shyamrajd)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shyamshyam018)](https://github.com/shyamshyam018)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/Shyam027)](https://leetcode.com/Shyam027)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername)](https://auth.geeksforgeeks.org/user/shyamrajwyx0)
-
----
-
-### 🛠️ Technical Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Light%20Skin%20Tone.png" alt="Man Detective Light Skin Tone" width="25" height="25" /> :
-
-### 💻 Frontend Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🖥️ Backend Development:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
----
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=𝐏𝐑𝐎𝐅𝐈𝐋𝐄+𝐕𝐈𝐄𝐖𝐒&color=333333&style=flat-square" />
+</div>
