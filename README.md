@@ -1,33 +1,79 @@
- ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="25" height="25" />
+<i>
+<div align="center">
 
-<div>
+<img src="https://www.shutterstock.com/shutterstock/videos/1099151773/thumb/8.jpg?ip=x480" width="100%" height="280" alt="Coding Banner" style="border-radius: 15px;"/>
 
-<img align="right" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="250" alt="Coding GIF"/>
+<br/>
+
+<div style="border: 2px solid #0E75B6; border-radius: 15px; padding: 25px; background-color: #0d1117; width: 95%;">
+
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 200; font-style: italic; color: #0E75B6; font-size: 45px; margin-bottom: 0;">
+  SHYAM RAJ D
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&style=italic&weight=700&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Full+Stack+Developer;Hackathon+Enthusiast;SDE+Aspirant" alt="Designation" />
 
 
 
+<div align="center">
+  <a href="https://www.salesforce.com/in/news/press-releases/2025/11/18/salesforce-completes-acquisition-of-informatica/">
+    <img src="https://github.com/user-attachments/assets/b6daf937-1a5d-412c-ae7b-406de92d4765" width="220" height="220" style="border-radius: 10px;" alt="Salesforce Informatica Acquisition" />
+  </a>
+  <h3 style="font-style: italic; font-weight: 300; margin-top: 10px;"> Intern @ Informatica (a Salesforce Company) </h3>
+  <p><i>Supporting Cloud Data Integration Solutions</i></p>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=21&pause=1000&color=236fff&width=435&lines=This+is+Shyam+!;I'm+a+Java+and+Python+Programmer;Aspiring+SDE+%26+Full+Stack+Developer;Hackathon+Enthusiast+and+Innovator)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=shyamshyam018&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
 
+<i>
+<h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 200; font-style: italic; color: #0E75B6; font-size: 45px; margin-bottom: 0;">
+  Life, like code, is a continuous refactoring of who we are today into who we want to be tomorrow
+</h3>
+</i>
+
+<br/>
+
+## 👨‍💻 About Me
+<p align="center">
+I am a Full Stack Developer with a passion for high-performance backend systems and AI-driven solutions. With a strong foundation in <b>CS Fundamentals</b> and a <b>1600+ LeetCode rating</b>, I thrive in fast-paced environments like Hackathons.
+</p>
+
+<div align="center">
+  🚀 <b>Currently Learning:</b> Cloud Native Development, DevOps, and Spring Boot <br/>
+  💻 <b>Expertise:</b> Java (DSA), MERN Stack, and Django <br/>
+  🏆 <b>Achievements:</b> 1st Place @ Hackfest '23 (Voice-AI tool)
+</div>
+
+<br/>
+
+---
+
+## 🚀 Live Project Showcases
+<div align="center">
+
+| Project Name | Tech Stack | Live Link |
+| :--- | :--- | :--- |
+| **Chinese Themed Portfolio** | HTML, CSS, JS | [View Live 🌐](https://shyamrajportfolio.netlify.app/) |
+| **Customer Support App** | MERN Stack | [View Live 🌐](https://cswebapp-client.onrender.com/) |
+| **Voice-AI Database Tool** | Python, NLP | [Repo 📁](https://github.com/shyamshyam018) |
+| **Cloud Data Integration** | Java, Spring | [Informatica 📁](https://github.com/shyamshyam018) |
 
 </div>
 
-### ⚡ About Me – Just a Techie on a Mission 
-  
-  - 💻 Full-stack dev with love for **React** & **Django** - [Portfolio!](https://shyamrajportfolio.netlify.app/)🚀
-  - 🧠 Into DSA, system design & clean code  
-  - 🧩 LeetCode grinder & open-source contributor  
-  - 🏆 Led winning teams at tech fests & hackathons  
-  - 🌐 Built stuff end-to-end — frontend, backend, deploy  
-  - 🚀 Always learning, building, and leveling up  
+---
 
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,mongodb,express,react,nodejs,django,spring,docker,aws,git,mysql,nextjs,tailwind" />
+</p>
 
+---
 
 ### 🏆 GitHub Trophies
-<table align = "center" width="2000">
+<table align = "center">
 <tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+<td align="center"><img src="https://github-trophies.vercel.app/?username=shyamshyam018&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
 </tr>
 </table>
 
@@ -37,138 +83,33 @@
 
 ---
 
-### 🔭 Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" />
-
-- Mastering **Data Structures & Algorithms** in Java with hands-on problem solving  in various platforms 
-- Building full-stack apps using **React**, **Node.js**, **Express**, and **Django**  
-- Specializing in **responsive front-end development** with modern JS frameworks like **NextJS** , **TailwindCSS** , **BootStrap5**
-
----
-
-### 📈 My Coding Progress
+## 📈 My Coding Progress
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-    <b>LeetCode</b><br><br>
-     <a href="https://leetcode.com/u/Shyam027/" target="_blank" rel="noopener noreferrer">
-       <img src="https://leetcard.jacoblin.cool/Shyam027?ext=heatmap&theme=dark" alt="Shyam's LeetCode Card" />
-     </a>
-    </td>
-    <td align="center">
-      <b>GeeksforGeeks</b><br><br>
-      <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+| LeetCode Stats | GeeksforGeeks Stats |
+| :---: | :---: |
+| <a href="https://leetcode.com/u/Shyam027/" target="_blank"><img src="https://leetcard.jacoblin.cool/Shyam027?ext=heatmap&theme=dark" alt="LeetCode" /></a> | <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shyamrajwyx0&theme=dark" alt="GFG" /></a> |
 
 </div>
 
 ---
 
-### 🌱 Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="25" height="25" /> :
-- Exploring **front-end frameworks**, **core CS subjects**, and **responsive design**  
-- Gaining **financial literacy**, freelancing experience & money-making skills  
-
----
-
-### 📊 Github & Development Stats
-
+## 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamshyam018&show_icons=true&hide=issues&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117" height="180px"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamshyam018&layout=compact&langs_count=10&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="180px"/>
+  <a href="https://www.linkedin.com/in/shyamrajd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shyamshyam018" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/Shyam027" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shyamrajwyx0/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+  </a>
 </p>
 
----
-
-### 👯 Looking to Collaborate On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> :
-- Delivering responsive projects and **platform-as-a-service** solutions for clients  
-- Teaming up on exciting stacks: **React**, **Node**, **Express**, **Django**
-
----
-
-### 🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
-
-<table>
-  <tr>
-    <td>
-      <img src="https://media.licdn.com/dms/image/v2/D5622AQEAKk2wcGXo3g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1688629234342?e=1747267200&v=beta&t=xN-gfAx7Rfa6T-fLwDmH9IypQSMLgNdyBdUK5l1b-60" width="300px" alt="Hackfest Photo"/>
-    </td>
-    <td>
-      <ol>
-        <li><strong>🏅 2nd Runner-Up in Hackfest '23</strong> – Won ₹50,000 for a <br/>crack/dent monitoring web app and a voice-powered database <br/>query Python tool.  
-        <br/>🔗 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091028031393206272/">See on LinkedIn</a></li><br/>
-        <li><strong>🏁 Finalist</strong> in an Intercollege Hackathon — Earned a consolation prize</li><br/>
-        <li><strong>🏆 Top 20 Teams</strong> in Smart India Hackathon (SIH) 2022 <br/>(among 300+ teams)</li>
-      </0l>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📫 Reach Me At <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Point Down" width="25" height="25" />
-
-| 📎 | [linktree](https://linktr.ee/shyamraj018) |
-| 📧 | [shyamrajsr2004@gmail.com](mailto:shyamrajsr2004@gmail.com) |
-| 📸 | [@shyam_nolimit](https://www.instagram.com/shyam_nolimit/) |
-
-
----
-
-### 🌐 Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> :
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/shyamrajd)](https://www.linkedin.com/in/shyamrajd)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/shyamshyam018)](https://github.com/shyamshyam018)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/Shyam027)](https://leetcode.com/Shyam027)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername)](https://auth.geeksforgeeks.org/user/shyamrajwyx0)
-
----
-
-### 🛠️ Technical Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Light%20Skin%20Tone.png" alt="Man Detective Light Skin Tone" width="25" height="25" /> :
-
-### 💻 Frontend Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🖥️ Backend Development:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
----
-
-
-
-
-
-
-
-
-
+</div>
+</i>
