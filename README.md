@@ -42,7 +42,7 @@ I am a Full Stack Developer with a passion for high-performance backend systems 
 <div align="center">
   🚀 <b>Currently Learning:</b> Cloud Native Development, DevOps, and Spring Boot <br/>
   💻 <b>Expertise:</b> Java (DSA), MERN Stack, and Django <br/>
-  🏆 <b>Achievements:</b> 1st Place @ Hackfest '23 (Voice-AI tool)
+  🏆 <b>Achievements:</b>  Won 50K INR @ Hackfest '23 (Voice-AI tool) and contributions in other hackathons
 </div>
 
 <br/>
