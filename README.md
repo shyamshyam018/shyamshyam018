@@ -56,8 +56,8 @@ I am a Full Stack Developer with a passion for high-performance backend systems 
 | :--- | :--- | :--- |
 | **Chinese Themed Portfolio** | ReactJS | <a href="https://shyamrajportfolio.netlify.app/" target="_blank">View Live 🌐</a> |
 | **Customer Support App** | MERN Stack | <a href="https://cswebapp-client.onrender.com/" target="_blank">View Live 🌐</a> |
-| **Voice-AI Database Tool** | Python, NLP | <a href="https://github.com/shyamshyam018" target="_blank">Repo 📁</a> |
-| **Cloud Data Integration** | Java, Spring | <a href="https://github.com/shyamshyam018" target="_blank">Informatica 📁</a> |
+| **Queuely Alert App** | MERN Stack , Twilio | <a href="https://queuly-smart-frontend-2.onrender.com/" target="_blank">View Live 🌐</a> |
+| **Cloud Data Integration** | Java, Python, Hadoop, Pyspark, Airflow, | <a href="https://github.com/shyamshyam018/Spark-ETL-Scripts" target="_blank">Data Engineering Projects 📁</a> |
 
 </div>
 
