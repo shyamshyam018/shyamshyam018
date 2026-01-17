@@ -54,10 +54,10 @@ I am a Full Stack Developer with a passion for high-performance backend systems 
 
 | Project Name | Tech Stack | Live Link |
 | :--- | :--- | :--- |
-| **Chinese Themed Portfolio** | HTML, CSS, JS | [View Live 🌐](https://shyamrajportfolio.netlify.app/) |
-| **Customer Support App** | MERN Stack | [View Live 🌐](https://cswebapp-client.onrender.com/) |
-| **Voice-AI Database Tool** | Python, NLP | [Repo 📁](https://github.com/shyamshyam018) |
-| **Cloud Data Integration** | Java, Spring | [Informatica 📁](https://github.com/shyamshyam018) |
+| **Chinese Themed Portfolio** | ReactJS | <a href="https://shyamrajportfolio.netlify.app/" target="_blank">View Live 🌐</a> |
+| **Customer Support App** | MERN Stack | <a href="https://cswebapp-client.onrender.com/" target="_blank">View Live 🌐</a> |
+| **Voice-AI Database Tool** | Python, NLP | <a href="https://github.com/shyamshyam018" target="_blank">Repo 📁</a> |
+| **Cloud Data Integration** | Java, Spring | <a href="https://github.com/shyamshyam018" target="_blank">Informatica 📁</a> |
 
 </div>
 
